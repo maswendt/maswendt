@@ -1,4 +1,4 @@
-### :point_up:   AIDA tools are now located [here](https://github.com/aswendtlab)!
+### :point_up:   AIDA tools are now located [here](https://github.com/aswendt-lab)!
 
 <!--
 **maswendt/maswendt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
