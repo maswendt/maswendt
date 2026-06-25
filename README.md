@@ -1,3 +1,6 @@
+### About me
+I am a neuroscientist with more than 15 years of experience in small animal imaging, experimental stroke models, and multimodal post-processing. I combine innovative methods to visualize and influence recovery processes after stroke. My goal is to identify mechanisms of plasticity and regeneration that underlie brain network changes and correlate with sensorimotor recovery after stroke. Based on this understanding, paradigms will be developed to selectively stimulate brain networks related to sensorimotor recovery. In addition to experimental studies, I advocate the principles of open science and data management, and develop and maintain software for quality control, processing, and brain atlas-based analysis of MRI and microscopy data. 
+
 ### :point_up:   AIDA tools are now located [here](https://github.com/aswendt-lab)!
 
 <!--
